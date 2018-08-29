@@ -54,7 +54,7 @@ nav{
 }
 @media only screen and   (max-width: 960px){
     header {
-		position: absolute;
+		position: fixed;
 	}
 	#menu-icon {
 		display: inline-block;
@@ -196,11 +196,12 @@ footer {
     height: auto;
     display: flex;
     margin-bottom: 0;
+    margin-top: -2px;
 }
 #footer_container {
     height: auto;
     width: 100%;
-    align-self: auto;
+
     justify-content: space-around;
 }
 .social {
