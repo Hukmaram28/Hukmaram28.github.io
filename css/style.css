@@ -65,7 +65,7 @@ nav{
 		display: none;
 		position: absolute;
 		padding: 5px;
-		background: #c5c5c5;
+		background: rgba(0, 0, 0, 0.842);
 		right: 0px;
 		top: 60px;
 		width: 25%;
