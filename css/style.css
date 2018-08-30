@@ -48,7 +48,7 @@ nav{
 }
 #menu-icon {
     background: url(../img/menu-icon.png);
-    display: hidden;
+    display: none;
     width: 32px;
     height: 32px;
 }
