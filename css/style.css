@@ -91,7 +91,6 @@ nav{
     flex-direction: column;
 }
 .main h3{
-    
     width: 100%;
     position: absolute;
     text-align: center;
@@ -180,6 +179,9 @@ nav{
 }
 .box, .container2box{
     flex-basis: 27%;
+}
+.container1 h3, .container2 h3{
+    text-align: center;
 }
 /* Image between Footer and content */
 .main2{
